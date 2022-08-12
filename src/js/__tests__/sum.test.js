@@ -1,4 +1,4 @@
-import {sum} from "../components/Sum";
+import {sum} from "../components/sum";
 
 test.each([
     ['Sum should return 0', [0,0], 0],
